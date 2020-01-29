@@ -13,8 +13,3 @@ def Add(string):
     else:
         return (n_list[0] + n_list[1] + n_list[2])
 
-#  def get_delim(string):
-#      if ',' in string:
-#          return ','
-#      elif '\n' in string:
-#          return '\n'
